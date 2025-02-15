@@ -1,6 +1,8 @@
-# vue-tailwindcss-introduction
+# Vue Tailwindcss Introduction
 
 This project built with Vue 3 using Composition API with TypeScript, Vue Router, Vite, Pinia, Tailwind CSS and Heroicons.
+
+for more details / tutorial find it here: https://wijoyosugianto.com/blog/vue-js-tailwindcss-introduction
 
 ## Recommended IDE Setup
 
